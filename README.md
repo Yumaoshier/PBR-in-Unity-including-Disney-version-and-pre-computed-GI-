@@ -15,6 +15,9 @@ https://github.com/Arcob/UnityPbrRendering
 https://zhuanlan.zhihu.com/p/68025039
 https://learnopengl.com/PBR/Theory
 https://blog.selfshadow.com/publications/s2012-shading-course/burley/s2012_pbs_disney_brdf_notes_v3.pdf
-https://www.jordanstevenstechart.com/physically-based-rendering> [Accessed 2 May 2021
+https://www.jordanstevenstechart.com/physically-based-rendering
 https://github.com/wdas/brdf/blob/main/src/brdfs/disney.brdf
 https://github.com/QianMo/PBR-White-Paper/tree/master/content/part%203
+
+The video link:
+https://youtu.be/b6eFu3IwqjY
